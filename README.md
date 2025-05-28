@@ -1,7 +1,5 @@
 # -Click-Through-Rate-Prediction
 
-# Click-Through Rate (CTR) Prediction
-
 This project implements and compares several machine learning models to predict whether a user will click on an advertisement (CTR prediction) using a provided dataset. The models include XGBoost (with hyperparameter tuning and bagging), Random Forest, Decision Tree, and Logistic Regression.
 
 ---
